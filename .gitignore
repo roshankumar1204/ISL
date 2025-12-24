@@ -1,3 +1,7 @@
 isl/isl_data/
 isl/venv2/
 isl/preprocessed_data/
+isl/package
+isl/models
+isl/__pycache__
+isl/venv2
