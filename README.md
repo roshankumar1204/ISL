@@ -1,6 +1,6 @@
 # 🤟 ISL Translator – Indian Sign Language to Hindi
 
-An **end-to-end multimodal AI system** that translates **Indian Sign Language (ISL)** gestures from video into **grammatically correct Hindi text and speech** using **Deep Learning and Generative AI**.
+An **end-to-end multimodal artificial intelligence system** designed to translate **Indian Sign Language (ISL)** gestures from video input into grammatically correct **Hindi text and speech** through **deep learning and generative AI techniques**.
 
 ---
 
