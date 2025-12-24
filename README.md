@@ -114,6 +114,13 @@ Hindi Text + Speech Output
 
 ---
 
+## Demo (screenshots of training data and working)
+
+<img width="1538" height="691" alt="trainning " src="https://github.com/user-attachments/assets/d9344a3d-0764-47e4-95bf-4758a1fcf82e" />
+<img width="1920" height="1080" alt="working 4 (1)" src="https://github.com/user-attachments/assets/c99c65cc-9220-4e6d-9a24-526937dc4f2f" />
+
+---
+
 ## 👤 Author
 
 **Roshan Kumar**  
